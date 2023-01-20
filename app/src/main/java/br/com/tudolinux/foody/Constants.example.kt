@@ -1,6 +1,6 @@
 package br.com.tudolinux.foody
 
-class Constants {
+class ConstantsExample {
 
     companion object {
         const val BASE_URL = "https://api.spoonacular.com"

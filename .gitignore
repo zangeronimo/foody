@@ -13,4 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
-foody/Constants.kt
+java/br/com/tudolinux/foody/Constants.kt
+app/src/main/java/br/com/tudolinux/foody/Constants.kt
