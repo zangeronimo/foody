@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-merged_res-58:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "br.com.tudolinux.foody.app-merged_res-58:/layout_fragment_recipes.xml.flat",
+        "source": "br.com.tudolinux.foody.app-main-60:/layout/fragment_recipes.xml"
+    },
+    {
+        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-merged_res-58:/navigation_my_nav.xml.flat",
+        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/navigation/my_nav.xml"
+    },
+    {
+        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-merged_res-58:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-merged_res-58:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-merged_res-58:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-merged_res-58:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "br.com.tudolinux.foody.app-merged_res-58:/drawable_ic_heart.xml.flat",
+        "source": "br.com.tudolinux.foody.app-main-60:/drawable/ic_heart.xml"
+    },
+    {
+        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-merged_res-58:/drawable_ic_star.xml.flat",
+        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/drawable/ic_star.xml"
+    },
+    {
+        "merged": "br.com.tudolinux.foody.app-merged_res-58:/layout_recipes_row_layout.xml.flat",
+        "source": "br.com.tudolinux.foody.app-main-60:/layout/recipes_row_layout.xml"
+    },
+    {
+        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-merged_res-58:/drawable_ic_sad.xml.flat",
+        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/drawable/ic_sad.xml"
+    },
+    {
+        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-merged_res-58:/drawable_ic_menu_book.xml.flat",
+        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/drawable/ic_menu_book.xml"
+    },
+    {
+        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-merged_res-58:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-merged_res-58:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-merged_res-58:/layout_activity_main.xml.flat",
+        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-merged_res-58:/drawable_ic_restaurant.xml.flat",
+        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/drawable/ic_restaurant.xml"
+    },
+    {
+        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-merged_res-58:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-merged_res-58:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-merged_res-58:/drawable_ic_food_joke.xml.flat",
+        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/drawable/ic_food_joke.xml"
+    },
+    {
+        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-merged_res-58:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-pngs-53:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-merged_res-58:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "br.com.tudolinux.foody.app-merged_res-58:/font_courgette.xml.flat",
+        "source": "br.com.tudolinux.foody.app-main-60:/font/courgette.xml"
+    },
+    {
+        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-merged_res-58:/layout_fragment_favorite_recipes.xml.flat",
+        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/layout/fragment_favorite_recipes.xml"
+    },
+    {
+        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-merged_res-58:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "br.com.tudolinux.foody.app-merged_res-58:/drawable_ic_clock.xml.flat",
+        "source": "br.com.tudolinux.foody.app-main-60:/drawable/ic_clock.xml"
+    },
+    {
+        "merged": "br.com.tudolinux.foody.app-merged_res-58:/drawable_ic_sad.xml.flat",
+        "source": "br.com.tudolinux.foody.app-main-60:/drawable/ic_sad.xml"
+    },
+    {
+        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-merged_res-58:/menu_bottom_nav_menu.xml.flat",
+        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "br.com.tudolinux.foody.app-merged_res-58:/drawable_ic_leaf.xml.flat",
+        "source": "br.com.tudolinux.foody.app-main-60:/drawable/ic_leaf.xml"
+    },
+    {
+        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-merged_res-58:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-merged_res-58:/xml_backup_rules.xml.flat",
+        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-merged_res-58:/layout_fragment_recipes.xml.flat",
+        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/layout/fragment_recipes.xml"
+    },
+    {
+        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-merged_res-58:/layout_placeholder_row_layout.xml.flat",
+        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/layout/placeholder_row_layout.xml"
+    },
+    {
+        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-merged_res-58:/layout_fragment_food_joke.xml.flat",
+        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/layout/fragment_food_joke.xml"
+    },
+    {
+        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-merged_res-58:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-merged_res-58:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]
