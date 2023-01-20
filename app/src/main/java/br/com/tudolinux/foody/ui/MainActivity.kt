@@ -1,13 +1,13 @@
-package br.com.tudolinux.foody
+package br.com.tudolinux.foody.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.navigation.NavController
-import androidx.navigation.findNavController
 import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupWithNavController
 import androidx.navigation.ui.setupActionBarWithNavController
+import br.com.tudolinux.foody.R
 import br.com.tudolinux.foody.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
