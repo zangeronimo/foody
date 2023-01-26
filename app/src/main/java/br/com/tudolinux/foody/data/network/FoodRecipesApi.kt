@@ -1,4 +1,4 @@
-package br.com.tudolinux.foody
+package br.com.tudolinux.foody.data.network
 
 import br.com.tudolinux.foody.models.FoodRecipe
 import retrofit2.Response

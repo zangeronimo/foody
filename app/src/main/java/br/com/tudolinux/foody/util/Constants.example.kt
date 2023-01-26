@@ -1,4 +1,4 @@
-package br.com.tudolinux.foody
+package br.com.tudolinux.foody.util
 
 class ConstantsExample {
 

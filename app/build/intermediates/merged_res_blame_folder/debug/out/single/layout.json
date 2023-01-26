@@ -4,27 +4,23 @@
         "source": "br.com.tudolinux.foody.app-main-60:/layout/fragment_recipes.xml"
     },
     {
-        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-mergeDebugResources-57:/layout/fragment_favorite_recipes.xml",
-        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/layout/fragment_favorite_recipes.xml"
+        "merged": "br.com.tudolinux.foody.app-mergeDebugResources-57:/layout/activity_main.xml",
+        "source": "br.com.tudolinux.foody.app-main-60:/layout/activity_main.xml"
     },
     {
-        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-mergeDebugResources-57:/layout/fragment_food_joke.xml",
-        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/layout/fragment_food_joke.xml"
+        "merged": "br.com.tudolinux.foody.app-mergeDebugResources-57:/layout/fragment_favorite_recipes.xml",
+        "source": "br.com.tudolinux.foody.app-main-60:/layout/fragment_favorite_recipes.xml"
     },
     {
-        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-mergeDebugResources-57:/layout/activity_main.xml",
-        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/layout/activity_main.xml"
+        "merged": "br.com.tudolinux.foody.app-mergeDebugResources-57:/layout/placeholder_row_layout.xml",
+        "source": "br.com.tudolinux.foody.app-main-60:/layout/placeholder_row_layout.xml"
     },
     {
         "merged": "br.com.tudolinux.foody.app-mergeDebugResources-57:/layout/recipes_row_layout.xml",
         "source": "br.com.tudolinux.foody.app-main-60:/layout/recipes_row_layout.xml"
     },
     {
-        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-mergeDebugResources-57:/layout/fragment_recipes.xml",
-        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/layout/fragment_recipes.xml"
-    },
-    {
-        "merged": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-mergeDebugResources-57:/layout/placeholder_row_layout.xml",
-        "source": "/home/luciano/.gradle/daemon/7.4/br.com.tudolinux.foody.app-main-60:/layout/placeholder_row_layout.xml"
+        "merged": "br.com.tudolinux.foody.app-mergeDebugResources-57:/layout/fragment_food_joke.xml",
+        "source": "br.com.tudolinux.foody.app-main-60:/layout/fragment_food_joke.xml"
     }
 ]
